@@ -1,0 +1,14 @@
+a {
+  color: #fff;
+  font-size: 15px; }
+  a a:hover {
+    background-color: #000;
+    height: 50px;
+    width: 50px;
+    display: block; }
+
+p {
+  font-size: 25px;
+  line-height: 25px; }
+
+/*# sourceMappingURL=main.css.map */
